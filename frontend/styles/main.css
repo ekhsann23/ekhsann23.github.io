@@ -74,13 +74,13 @@ header .px-4 {
 }
 
 header .btn-join-free-now {
-  background-color: #44ABD9;
+  background-color: #FF6188;
   color: #FFF;
   border-radius: 16px;
 }
 
 header .btn-join-free-now:hover {
-  background-color: #44ABD9;
+  background-color: #FF6188;
   color: #FFF;
   border-radius: 16px;
 }
