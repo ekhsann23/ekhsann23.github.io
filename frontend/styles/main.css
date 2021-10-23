@@ -150,7 +150,7 @@ header .btn-join-free-now:hover {
 
 @media only screen and (max-width: 600px) {
   header {
-    padding: 480px 0 280px;
+    padding: 480px 8px 280px;
     margin-top: -380px;
   }
   header h1, header p {
