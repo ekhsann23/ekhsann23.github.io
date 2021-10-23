@@ -172,12 +172,12 @@ header .btn-join-free-now:hover {
     padding-top: 12px !important;
   }
   header .btn-join-free-now {
-    background-color: #FE688D;
+    background-color: #FF6188;
     color: #FFF;
     border-radius: 16px;
   }
   header .btn-join-free-now:hover {
-    background-color: #FF84A2;
+    background-color: #FF6188;
     color: #FFF;
     border-radius: 16px;
   }
